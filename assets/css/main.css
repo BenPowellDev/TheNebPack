@@ -1040,7 +1040,7 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button.primary:hover,
 		.button.primary:hover {
-			background-color: rgba(255, 255, 255, 0.479);
+			background-color: rgba(31, 30, 30, 0.719);
 		}
 
 		input[type="submit"]:active,
@@ -1082,8 +1082,8 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #ffffff;
-			color: #1b1f22 !important;
+			background-color: #1b1b1b;
+			color: #1bd96a !important;
 			font-weight: 600;
 		}
 
